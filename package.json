@@ -1,0 +1,18 @@
+{
+    "name": "threeVP-Demo",
+    "version": "0.0.1",
+    "keywords": ["threeVP", "demo", "client", "browser"],
+    "author": "i3ernie",
+    "license" : "MIT",
+    
+    "repository" :
+    {
+      "type" : "git",
+      "url" : "git://github.com/i3ernie/threeVP-Demo.js.git"
+    },
+    
+    "contributors": [],
+    "dependencies": {
+        "threeVP-Backpack" : "git://github.com/i3ernie/threeVP-Backpack.git"
+    }
+}
